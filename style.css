@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 24px;
+}
+a {
+    color: #3d4e5e;
+}
+a:hover {
+    color: #9ea5ae;
+    text-decoration:underline;
+}
+h2 {
+    font-size: 16px;
+}
+p {
+    font-size: 22px;
+}
