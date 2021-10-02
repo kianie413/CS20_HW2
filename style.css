@@ -3,6 +3,7 @@ body {
 }
 h1 {
     font-size: 24px;
+    color: #3d4e5e;
 }
 a {
     color: #3d4e5e;
@@ -12,10 +13,13 @@ a:hover {
 }
 h2 {
     font-size: 16px;
+    color: #3d4e5e;
 }
 h3 {
     font-size: 20px;
+    color: #3d4e5e;
 }
 p {
     font-size: 18px;
+    color: #3d4e5e;
 }
