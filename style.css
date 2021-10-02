@@ -9,11 +9,13 @@ a {
 }
 a:hover {
     color: #9ea5ae;
-    text-decoration:underline;
 }
 h2 {
     font-size: 16px;
 }
-p {
+h3 {
     font-size: 20px;
+}
+p {
+    font-size: 18px;
 }
