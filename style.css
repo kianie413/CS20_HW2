@@ -32,7 +32,8 @@ p {
 }
 footer{
     background-color: #2596be;
-    paddding: 50px 0; 
+    padding: 50px 0; 
+    color: #ffffff;
 }
 .footer-container{
     margin: auto;
