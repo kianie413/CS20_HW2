@@ -27,10 +27,24 @@
             <a href = "services.html"> Services </a>
         </div>
     <h1> Contact Us</h1>
-        <h2> If you would like to learn more or support, see our information below!</h2>
-            <p> Location: 20 Professors Row </p>
-            <p> Phone: 617-627-2100 </p>
-            <p> Email: FIRST@tufts.edu </p>
-        <button class="button button" href="https://give.tufts.edu/campaigns/22193/donations/new?designation=FIRSTResourceCenter"> Click here to donate! </button>
+        <form action="/action_page.php">
+            <label for="fname">First name:</label>
+                <br>
+            <input type="text" id="fname" name="fname">
+                <br>
+            <label for="lname">Last name:</label>
+                <br>
+            <input type="text" id="lname" name="lname">
+                <br>
+            <label for="email"></label>
+                <br>
+            <input type="email">
+                <br>
+            <label for="text"></label>
+                <br>
+            <input type="text">
+                <br><br>
+            <input type="submit" value="Submit">
+        </form>
     </body>
 </html>
