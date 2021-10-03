@@ -1,28 +1,28 @@
 body {
     font-family: sans-serif;
-    color: #3d4e5e;
+    color: #2596be;
 }
 h1 {
     font-size: 24px;
-    color: #3d4e5e;
+    color: #2596be;
 }
 a {
     color: #3d4e5e;
 }
 a:hover {
-    color: #9ea5ae;
+    color: #2596be;
 }
 h2 {
     font-size: 22px;
-    color: #9ea5ae;
+    color: #2596be;
 }
 h3 {
     font-size: 20px;
-    color: #3d4e5e;
+    color: #2596be;
 }
 p {
     font-size: 18px;
-    color: #3d4e5e;
+    color: #2596be;
 }
 .navbar {
     overflow: hidden;
