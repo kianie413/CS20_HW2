@@ -1,17 +1,12 @@
 body {
     font-family: sans-serif;
-    color: #2596be;
+    color: #3d4e5e;
 }
 h1 {
     font-size: 24px;
     color: #2596be;
 }
-a {
-    color: #3d4e5e;
-}
-a:hover {
-    color: #2596be;
-}
+
 h2 {
     font-size: 22px;
     color: #2596be;
@@ -26,18 +21,40 @@ p {
 }
 .navbar {
     overflow: hidden;
-    position: fixed;
+    background-color: #2596be;
     top: 0;
     width: 100;
+}
+.navbar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navbar a:hover {
+    background-color:#3d4e5e;
+    color: #f2f2f2;
+}
+.navbar a:active{
+    background-color:#3d4e5e;
+    color: #f2f2f2;
 }
 footer{
     background-color: #2596be;
     padding: 50px 0; 
-    color: #ffffff;
+    color: #f2f2f2;
 }
 .footer-container{
     margin: auto;
     justify-content: space-around;
     align-items:center;
     flex-wrap: wrap-reverse;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
